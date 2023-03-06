@@ -42,7 +42,7 @@ body {
 	bottom:0;
 	overflow:hidden;
 	z-index:100;
-    background: #222;
+    background: #00235c;
 	-webkit-transform: translate3d(0,0,0);
 }
 .spinner {
@@ -414,7 +414,7 @@ blockquote p {
 	left: 0;
 	width:90px;
 	bottom: 0;
-    background: #222;
+    background: #00235c;
 	z-index: 20; 
 	padding: 0 90px 0 0; 
 	transition: all 300ms linear;
@@ -423,15 +423,15 @@ blockquote p {
 .logo-holder {
 	float: left;
 	position: relative;
-	width: 90px;
-	height: 90px;
+	width: 100px;
+	height: 100px;
 	line-height: 90px;
 	z-index: 5;
  	border-bottom: 1px solid rgba(255,255,255,0.05);
 }
 .logo-holder img {
 	width: auto;
-	height: 25px;
+	height: 50px;
 }
 .top-header {
 	position: fixed;
@@ -440,7 +440,7 @@ blockquote p {
 	width: calc(100% - 440px  );
 	height: 90px;
 	border-bottom: 1px solid rgba(255,255,255,0.05);
-	background: #222;
+	background: #00235c;
 	z-index: 19;
 }
 .progress-bar-wrap {
@@ -976,7 +976,7 @@ nav.nav-inner {
 }
 .transparent-btn:hover {
 	border-color: rgba(255,255,255,0);
-	background: #222;
+	background: #00235c;
 }
 /* ------footer------------------------------------------------------------ */
 .height-emulator {
@@ -997,7 +997,7 @@ nav.nav-inner {
 	bottom: 0;
 	left: 0;
 	width: 50%;
-	background: #222;
+	background: #00235c;
 	z-index: 2;
 }
 .footer-decor {
@@ -1020,7 +1020,7 @@ nav.nav-inner {
 	height: 80px;
 	padding:0  80px 0 30px;
 	line-height: 80px;
-	background: #222;
+	background: #00235c;
 }
 .footer-inner {
 	padding:90px 0 80px;
@@ -1293,7 +1293,7 @@ nav.nav-inner {
 }
 /* ------Column------------------------------------------------------------ */
 .scroll-fixed-column-content {
-	background: #222;
+	background: #00235c;
 	height: 80px;
 	z-index: 500
 }
@@ -1604,7 +1604,7 @@ nav.nav-inner {
 	top:0;
 	height:100%;
 	z-index:20;
-	background:#222;
+	background:#00235c;
 }
 .column-image-anim:before {
 	content: '';
@@ -1737,7 +1737,7 @@ section {
 .hero-wrap {
 	z-index: 6;
 	overflow: hidden;
-	background: #222;
+	background: #00235c;
 }
 .hero-dec {
     position: absolute;
@@ -1784,7 +1784,7 @@ section {
 	 font-family: 'Teko', sans-serif;
  	-webkit-text-stroke-color:rgba(255,255,255,0.1);
   	-webkit-text-stroke-width: 1px;
-	color:#222;
+	color:#00235c;
   	font-size:284px;
 	width: 284px;
 	height: 284px;
@@ -1942,7 +1942,7 @@ section {
     transition: all 200ms linear;
 }
 .start-btn:after {
-	background: #222;
+	background: #00235c;
 	z-index:1;
 }
 .start-btn:hover:before {
@@ -2603,7 +2603,7 @@ section {
 	bottom: -40px;
 }
 .fs-grid-wrap {
-	background: #222;
+	background: #00235c;
 	min-height: 100vh;
 }
 .fs-grid-wrap_column {
@@ -3129,7 +3129,7 @@ section {
 	width: 650px;
 	bottom: 0;
 	top: 0;
-	background: #222;
+	background:#00235c;
 }
 .fbp_dec:before {
     right: 0;
