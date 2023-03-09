@@ -295,8 +295,8 @@ body {
 }
 /*--------------Typography--------*/
 p {
-	font-size: 12px;
-	line-height: 24px;
+	font-size: 13px;
+    line-height: 18px;
 	padding-bottom: 10px;
 	font-weight: 500;
     color: #5e646a;
@@ -1623,8 +1623,8 @@ nav.nav-inner {
     transition: all 10ms linear;
 }
 .pr-tags {
-	margin:30px 0;
-	padding:22px 30px;
+	margin: 15px 0;
+    padding: 15px 15px;
 	border:1px solid #eee;
 	background:#f9f9f9;
 }
@@ -4350,7 +4350,7 @@ section {
 .section-title p  {
     padding-top: 10px;
     color: #666;
-    text-align: left;
+    text-align: justify;
     font-size: 10px;
     text-transform: uppercase;
     font-weight: 400;
@@ -4378,8 +4378,8 @@ section {
 	z-index: 3;
 }
 .text-block {
-	margin-top: 20px;
-	padding-left: 30px;
+	    /* margin-top: 2px; */
+    padding-left: 20px;
 }
 .text-block p {
 	text-align: justify;
