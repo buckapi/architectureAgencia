@@ -432,6 +432,7 @@ blockquote p {
 .logo-holder img {
 	width: auto;
 	height: 50px;
+	border-radius: 20%;
 }
 .top-header {
 	position: fixed;
